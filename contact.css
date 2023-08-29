@@ -1,0 +1,50 @@
+
+#contact{
+    font-size: 65px; 
+    color: white; 
+    text-shadow: 8px 8px  #000000;
+    font-weight: 648;
+}
+#map2{
+    box-shadow: 10px 10px 5px #000000;
+    -moz-box-shadow: 10px 10px 5px #000000;
+    -webkit-box-shadow: 10px 10px 5px #000000;
+    -khtml-box-shadow: 10px 10px 5px #000000;
+    border: 5px solid #0a1674;
+    outline: 3px solid #ffffff;
+}
+#qwerty{
+    background-color: #06052f; 
+}
+#b1{
+    background-color: #1410db;
+}
+button#b1:hover, button#b1:active {transition: all 0.2s ease 0s;
+    background-color: #161581;
+  
+  
+  }
+  input,  select{
+    
+    border: 3px solid grey;
+    border-radius: 8px;
+    color: gray;
+    outline: none;
+    font-size: 15px;
+    margin: 18px 0px;
+    padding: 7px;
+
+    background-color: black;
+  
+}
+textarea{
+    border: 3px solid grey;
+    border-radius: 8px;
+    color: gray;
+    outline: none;
+    font-size: 15px;
+    margin: 18px 0px;
+    padding: 7px;
+    height: 150px;
+    background-color: black;
+}

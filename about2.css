@@ -1,0 +1,217 @@
+#e1{
+border: solid 1px white;
+background: linear-gradient(to left top,#050a29 20%, #080682,#050a29 88% );  
+display: block;
+transition: .4s ease;
+position: relative;
+box-shadow: 10px 10px 5px #000000;
+-moz-box-shadow: 10px 10px 5px #000000;
+-webkit-box-shadow: 10px 10px 5px #000000;
+-khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e1:hover {
+opacity: 0.55;
+}
+#e1:hover .middle {
+opacity: 200;
+color: white;
+}
+
+#e2{
+border: solid 1px white;
+background: linear-gradient(to left top,#050a29 20%, #080682,#050a29 88% ); 
+display: block;
+transition: .4s ease;
+position: relative;
+box-shadow: 10px 10px 5px #000000;
+-moz-box-shadow: 10px 10px 5px #000000;
+-webkit-box-shadow: 10px 10px 5px #000000;
+-khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e2:hover {
+opacity: 0.55;
+}
+#e2:hover .middle {
+opacity: 200;
+color: white;
+}
+#e3{
+border: solid 1px white;
+background: linear-gradient(to left top,#050a29 20%, #080682,#050a29 88% ); 
+display: block;
+transition: .4s ease;
+position: relative;
+box-shadow: 10px 10px 5px #000000;
+-moz-box-shadow: 10px 10px 5px #000000;
+-webkit-box-shadow: 10px 10px 5px #000000;
+-khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e3:hover {
+opacity: 0.55;
+}
+#e3:hover .middle {
+opacity: 200;
+color: white;
+}
+#e4{
+border: solid 1px white;
+background: linear-gradient(to left top,#050a29 20%, #080682,#050a29 88% ); 
+display: block;
+transition: .4s ease;
+position: relative;
+box-shadow: 10px 10px 5px #000000;
+-moz-box-shadow: 10px 10px 5px #000000;
+-webkit-box-shadow: 10px 10px 5px #000000;
+-khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e4:hover {
+opacity: 0.55;
+}
+#e4:hover .middle {
+opacity: 200;
+color: white;
+}
+#e5{
+border: solid 1px white;
+background: linear-gradient(to left top,#050a29 20%, #080682,#050a29 88% ); 
+display: block;
+transition: .4s ease;
+position: relative;
+box-shadow: 10px 10px 5px #000000;
+-moz-box-shadow: 10px 10px 5px #000000;
+-webkit-box-shadow: 10px 10px 5px #000000;
+-khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e5:hover {
+opacity: 0.55;
+}
+#e5:hover .middle {
+opacity: 200;
+color: white;
+}
+#e6{
+border: solid 1px white;
+background: linear-gradient(to left top,#050a29 20%, #080682,#050a29 88% ); 
+display: block;
+transition: .4s ease;
+position: relative;
+box-shadow: 10px 10px 5px #000000;
+-moz-box-shadow: 10px 10px 5px #000000;
+-webkit-box-shadow: 10px 10px 5px #000000;
+-khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e6:hover {
+opacity: 0.55;
+}
+#e6:hover .middle {
+opacity: 200;
+color: white;
+}
+#e7{
+border: solid 1px white;
+background: linear-gradient(to left top,#050a29 20%, #080682,#050a29 88% ); 
+display: block;
+transition: .4s ease;
+position: relative;
+box-shadow: 10px 10px 5px #000000;
+-moz-box-shadow: 10px 10px 5px #000000;
+-webkit-box-shadow: 10px 10px 5px #000000;
+-khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e7:hover {
+opacity: 0.55;
+}
+#e7:hover .middle {
+opacity: 200;
+color: white;
+}
+#e8{
+border: solid 1px white;
+background: linear-gradient(to left top,#050a29 20%, #080682,#050a29 88% ); 
+display: block;
+transition: .4s ease;
+position: relative;
+box-shadow: 10px 10px 5px #000000;
+-moz-box-shadow: 10px 10px 5px #000000;
+-webkit-box-shadow: 10px 10px 5px #000000;
+-khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e8:hover {
+opacity: 0.55;
+}
+#e8:hover .middle {
+opacity: 200;
+color: white;
+}
+#e9{
+border: solid 1px white;
+background: linear-gradient(to left top,#050a29 20%, #080682,#050a29 88% ); 
+display: block;
+transition: .4s ease;
+position: relative;
+box-shadow: 10px 10px 5px #000000;
+-moz-box-shadow: 10px 10px 5px #000000;
+-webkit-box-shadow: 10px 10px 5px #000000;
+-khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e9:hover {
+opacity: 0.55;
+}
+#e9:hover .middle {
+opacity: 200;
+color: white;
+}
+#e10{
+border: solid 1px white;
+background: linear-gradient(to left top,#050a29 20%, #080682,#050a29 88% ); 
+display: block;
+transition: .4s ease;
+position: relative;
+box-shadow: 10px 10px 5px #000000;
+-moz-box-shadow: 10px 10px 5px #000000;
+-webkit-box-shadow: 10px 10px 5px #000000;
+-khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e10:hover {
+opacity: 0.55;
+}
+#e10:hover .middle {
+opacity: 200;
+color: white;
+}
+#e11{
+border: solid 1px white;
+background: linear-gradient(to left top,#050a29 20%, #080682,#050a29 88% ); 
+display: block;
+transition: .4s ease;
+position: relative;
+box-shadow: 10px 10px 5px #000000;
+-moz-box-shadow: 10px 10px 5px #000000;
+-webkit-box-shadow: 10px 10px 5px #000000;
+-khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e11:hover {
+opacity: 0.55;
+}
+#e11:hover .middle {
+opacity: 200;
+color: white;
+}
+#e12{
+border: solid 1px white;
+background: linear-gradient(to left top,#050a29 20%, #080682,#050a29 88% ); 
+display: block;
+transition: .4s ease;
+position: relative;
+box-shadow: 10px 10px 5px #000000;
+-moz-box-shadow: 10px 10px 5px #000000;
+-webkit-box-shadow: 10px 10px 5px #000000;
+-khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e12:hover {
+opacity: 0.55;
+}
+#e12:hover .middle {
+opacity: 200;
+color: white;
+}

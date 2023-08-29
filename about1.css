@@ -1,0 +1,364 @@
+::-webkit-scrollbar {
+    width: 30px;
+    background-color: #000000;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 10px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background:  #170aa9;
+    border-radius: 20px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #0b03f2; 
+  }
+  html {
+    scroll-behavior: smooth;
+}
+  .gotopbtn {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background: #0011ff;
+    bottom: 60px;
+    right: 50px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    font-size: 22;
+    
+}
+a.gotopbtn:hover, a.gotopbtn:active {transition: all 0.3s ease 0s;
+  background-color: #2111b8;
+  color: white;
+  width: 55px;
+  height: 55px;
+  
+    }
+a:hover { 
+        color: #1118e1; 
+        transition: all 0.3s ease 0s;
+      
+      }
+p{
+
+        color:white;
+        font-size: 17px;
+          font-weight: 350;
+      }
+
+      h2 {
+        font-size: 24px; 
+        color: white; 
+        text-shadow: 4px 4px  #000000;
+        font-weight: 400;
+        
+      
+        
+      }
+      #map{
+        height: 80px;
+        width: 240px;
+        border: 3px solid white;
+        margin-top: 10px;
+        
+        box-shadow: 10px 10px 5px #000000;
+        -moz-box-shadow: 10px 10px 5px #000000;
+        -webkit-box-shadow: 10px 10px 5px #000000;
+        -khtml-box-shadow: 10px 10px 5px #000000;
+        
+      }
+      img#map:hover, img#map:active {transition: all 0.3s ease 0s;
+        height: 150px;
+        
+      
+      
+      }
+      p2{
+       
+        color:white;
+        text-shadow: 3px 3px  #000000;
+        font-size: 15px;
+        font-weight: 330;
+      }
+      hr {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        border-top: 2px dotted #ffffff;
+      }
+      #q{
+        background-color: black
+      }
+      #form1{
+        align-content: center;
+      }
+      #i2{
+        width: 520px;
+        height: 520px;
+      }
+      #hh{
+        font-size: 48px; 
+        color: white; 
+        text-shadow: 8px 8px  #000000;
+      }
+
+     h3{
+      color: white; 
+      text-shadow: 4px 4px  #000000;
+      font-weight: 400;
+      
+    
+     }
+#e1{
+  border: solid 1px white;
+  background-color: #06062c;
+  display: block;
+  transition: .4s ease;
+  position: relative;
+  box-shadow: 10px 10px 5px #000000;
+  -moz-box-shadow: 10px 10px 5px #000000;
+  -webkit-box-shadow: 10px 10px 5px #000000;
+  -khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e1:hover {
+  opacity: 0.45;
+}
+#e1:hover .middle {
+  opacity: 200;
+  color: white;
+}
+
+#e2{
+  border: solid 1px white;
+  background-color: #06062c;
+  display: block;
+  transition: .4s ease;
+  position: relative;
+  box-shadow: 10px 10px 5px #000000;
+  -moz-box-shadow: 10px 10px 5px #000000;
+  -webkit-box-shadow: 10px 10px 5px #000000;
+  -khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e2:hover {
+  opacity: 0.45;
+}
+#e2:hover .middle {
+  opacity: 200;
+  color: white;
+}
+#e3{
+  border: solid 1px white;
+  background-color: #06062c;
+  display: block;
+  transition: .4s ease;
+  position: relative;
+  box-shadow: 10px 10px 5px #000000;
+  -moz-box-shadow: 10px 10px 5px #000000;
+  -webkit-box-shadow: 10px 10px 5px #000000;
+  -khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e3:hover {
+  opacity: 0.45;
+}
+#e3:hover .middle {
+  opacity: 200;
+  color: white;
+}
+#e4{
+  border: solid 1px white;
+  background-color: #06062c;
+  display: block;
+  transition: .4s ease;
+  position: relative;
+  box-shadow: 10px 10px 5px #000000;
+  -moz-box-shadow: 10px 10px 5px #000000;
+  -webkit-box-shadow: 10px 10px 5px #000000;
+  -khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e4:hover {
+  opacity: 0.45;
+}
+#e4:hover .middle {
+  opacity: 200;
+  color: white;
+}
+#e5{
+  border: solid 1px white;
+  background-color: #06062c;
+  display: block;
+  transition: .4s ease;
+  position: relative;
+  box-shadow: 10px 10px 5px #000000;
+  -moz-box-shadow: 10px 10px 5px #000000;
+  -webkit-box-shadow: 10px 10px 5px #000000;
+  -khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e5:hover {
+  opacity: 0.45;
+}
+#e5:hover .middle {
+  opacity: 200;
+  color: white;
+}
+#e6{
+  border: solid 1px white;
+  background-color: #06062c;
+  display: block;
+  transition: .4s ease;
+  position: relative;
+  box-shadow: 10px 10px 5px #000000;
+  -moz-box-shadow: 10px 10px 5px #000000;
+  -webkit-box-shadow: 10px 10px 5px #000000;
+  -khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e6:hover {
+  opacity: 0.45;
+}
+#e6:hover .middle {
+  opacity: 200;
+  color: white;
+}
+#e7{
+  border: solid 1px white;
+  background-color: #06062c;
+  display: block;
+  transition: .4s ease;
+  position: relative;
+  box-shadow: 10px 10px 5px #000000;
+  -moz-box-shadow: 10px 10px 5px #000000;
+  -webkit-box-shadow: 10px 10px 5px #000000;
+  -khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e7:hover {
+  opacity: 0.45;
+}
+#e7:hover .middle {
+  opacity: 200;
+  color: white;
+}
+#e8{
+  border: solid 1px white;
+  background-color: #06062c;
+  display: block;
+  transition: .4s ease;
+  position: relative;
+  box-shadow: 10px 10px 5px #000000;
+  -moz-box-shadow: 10px 10px 5px #000000;
+  -webkit-box-shadow: 10px 10px 5px #000000;
+  -khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e8:hover {
+  opacity: 0.45;
+}
+#e8:hover .middle {
+  opacity: 200;
+  color: white;
+}
+#e9{
+  border: solid 1px white;
+  background-color: #06062c;
+  display: block;
+  transition: .4s ease;
+  position: relative;
+  box-shadow: 10px 10px 5px #000000;
+  -moz-box-shadow: 10px 10px 5px #000000;
+  -webkit-box-shadow: 10px 10px 5px #000000;
+  -khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e9:hover {
+  opacity: 0.45;
+}
+#e9:hover .middle {
+  opacity: 200;
+  color: white;
+}
+#e10{
+  border: solid 1px white;
+  background-color: #06062c;
+  display: block;
+  transition: .4s ease;
+  position: relative;
+  box-shadow: 10px 10px 5px #000000;
+  -moz-box-shadow: 10px 10px 5px #000000;
+  -webkit-box-shadow: 10px 10px 5px #000000;
+  -khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e10:hover {
+  opacity: 0.45;
+}
+#e10:hover .middle {
+  opacity: 200;
+  color: white;
+}
+#e11{
+  border: solid 1px white;
+  background-color: #06062c;
+  display: block;
+  transition: .4s ease;
+  position: relative;
+  box-shadow: 10px 10px 5px #000000;
+  -moz-box-shadow: 10px 10px 5px #000000;
+  -webkit-box-shadow: 10px 10px 5px #000000;
+  -khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e11:hover {
+  opacity: 0.45;
+}
+#e11:hover .middle {
+  opacity: 200;
+  color: white;
+}
+#e12{
+  border: solid 1px white;
+  background-color: #06062c;
+  display: block;
+  transition: .4s ease;
+  position: relative;
+  box-shadow: 10px 10px 5px #000000;
+  -moz-box-shadow: 10px 10px 5px #000000;
+  -webkit-box-shadow: 10px 10px 5px #000000;
+  -khtml-box-shadow: 10px 10px 5px #000000;
+}
+#e12:hover {
+  opacity: 0.45;
+}
+#e12:hover .middle {
+  opacity: 200;
+  color: white;
+}
+h1 {
+  font-size: 40px; 
+  color: white; 
+  text-shadow: 6px 6px  #000000;
+  
+}
+.middle {
+  transition: .9s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+  
+
+}
+.ebutton{
+  background-color: #000000;
+  color: white;
+  height: 50px;
+  width: 140px;
+  border-radius: 30px ;
+  font-weight: 600;
+  border: solid 2px #ffffff;
+
+}

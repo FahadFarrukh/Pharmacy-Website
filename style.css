@@ -1,0 +1,206 @@
+::-webkit-scrollbar {
+    width: 30px;
+    background-color: #000000;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 10px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background:  #1809c0;
+    border-radius: 20px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #0b03f2; 
+  }
+  html {
+    scroll-behavior: smooth;
+}
+  .gotopbtn {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background: #000ecd;
+    bottom: 60px;
+    right: 50px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    font-size: 22;}
+    
+
+
+a.gotopbtn:hover, a.gotopbtn:active {transition: all 0.3s ease 0s;
+  background-color: #1900ff;
+  color: white;
+  width: 53px;
+  height: 53px;
+  
+    }
+  #kitchen {
+   
+      height: 520px;
+  }
+  #pic2 {
+  
+      height: 600px;
+      width:1500px;
+  }
+
+  #button1{
+    background-color: #bb130dd7 ;
+    border: 3px solid white;
+    border-radius: 120px;
+    height: 55px;
+    width: 220px;
+    text-align: center;
+    display: inline-block;
+    font-size: 30px;
+    color: white;
+  
+  }
+  #button1:hover { background-color: #e11118; 
+    transition: all 0.3s ease 0s;
+    height: 62px;
+    width: 230px;
+  
+}
+a:hover { 
+  color: #1118e1; 
+  transition: all 0.3s ease 0s;
+
+}
+h1 {
+    font-size: 40px; 
+    color: white; 
+    text-shadow: 4px 4px  #000000;
+    
+}
+p{
+
+  color:white;
+  font-size: 16px;
+    font-weight: 350;
+}
+p2{
+       
+  color:white;
+  text-shadow: 3px 3px  #000000;
+  font-size: 15px;
+  font-weight: 330;
+}
+.rev{
+  align-content: center;
+}
+.revpic{
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  
+  border: 3px solid white;
+}
+.checked {
+  color: rgb(255, 153, 0);
+}
+#r {
+  font-size: 48px; 
+  color: white; 
+  text-shadow: 6px 6px  #000000;
+
+  
+}
+.box{
+  border: 1px solid white;
+  background: linear-gradient(to left top, #050530 , #0f00af 60%);
+  box-shadow: 5px 5px 5px #000000;
+  -moz-box-shadow: 5px 5px 5px #000000;
+  -webkit-box-shadow: 10px 10px 5px #000000;
+  -khtml-box-shadow: 10px 10px 5px #000000;
+}
+div.box:hover {
+  transition: all 0.5s ease 0s;
+  background: #1c0fb0;
+  padding-left: 7px;
+padding-right: 7px;
+padding-top: 7px;
+padding-bottom: 7px;
+
+}
+h2 {
+  font-size: 24px; 
+  color: white; 
+  text-shadow: 4px 4px  #000000;
+  font-weight: 400;
+  
+
+  
+}
+#map{
+  height: 80px;
+  width: 240px;
+  border: 3px solid white;
+  margin-top: 10px;
+  
+  box-shadow: 10px 10px 5px #000000;
+  -moz-box-shadow: 10px 10px 5px #000000;
+  -webkit-box-shadow: 10px 10px 5px #000000;
+  -khtml-box-shadow: 10px 10px 5px #000000;
+  
+}
+img#map:hover, img#map:active {transition: all 0.6s ease 0s;
+  height: 200px;
+  width: 350px;
+  
+}
+
+hr {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  border-top: 2px dotted #ffffff;
+}
+#aline{
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  border-top: 2px dotted #ffffff;
+}
+#q{
+  background-color: black
+}
+#form1{
+  align-content: center;
+}
+#i2{
+  width: 520px;
+  height: 520px;
+}
+#hh{
+  font-size: 43px; 
+  color: white; 
+  text-shadow: 6px 6px  #000000;
+}
+#ht{
+  font-size: 40px; 
+  color: white; 
+  text-shadow: 6px 6px  #000000;
+}
+#logbut{
+  background-color: #110ea8;
+  width: 290px;
+}
+
+#logbut:hover,  #logbut:active {transition: all 0.2s ease 0s;
+  background-color: #0f0e5f;
+
+
+}
