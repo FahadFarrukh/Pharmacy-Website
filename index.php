@@ -9,7 +9,7 @@
     <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
     <link href="style.css" rel="stylesheet">
     <link rel="shortcut icon" href="https://th.bing.com/th/id/R.639dff71a171c385efa941f07cccd526?rik=JFCur4f%2fwvLFiA&riu=http%3a%2f%2ffiles.gamebanana.com%2fimg%2fico%2fsprays%2f50f916fcc9c5b.png&ehk=yJZLb5Bmq4mXww%2fsBMeWrBVmYCyrIopZpW68BelkCF0%3d&risl=&pid=ImgRaw&r=0">
-    <title>Garrison Pharmacy</title>
+    <title>FII Pharmacy</title>
 <style>
   #logbut{
     background-color: #100cf0;
@@ -31,7 +31,7 @@
         <a href="index.php"><img  src="logo.png" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="text-white  " style=" border: 3px solid white ;border-radius: 50%;" height="136px" width="136px;" viewBox="0 0 24 24"></a>
           
         </svg>
-        <span style="font-family: 'Brush Script MT';color:white;font-size: 64px;" class="ml-1 text-xl  ">Garrison Pharmacy</span>
+        <span style="font-family: 'Brush Script MT';color:white;font-size: 64px;" class="ml-1 text-xl  ">FII Pharmacy</span>
       </a>
       <nav id="navv" style="color: white;font-size: 18px;" class=" md:ml-40 flex flex-wrap items-center text-base justify-center md:pl-3 md:border-l md:border-gray-100">
         <a href="index.php" class="mr-5 ">Home</a>
@@ -71,7 +71,7 @@ else if(isset($_SESSION['loggedin']) || $_SESSION['loggedin'] ==true){
             <h1 id="hh" class="title-font sm:text-4xl text-3xl mb-12 font-medium ">Welcome To Our Online Portal</h1>
             <p class="mb-7 leading-relaxed" style="
             
-            color:white;">Garrison Pharmacy is your community pharmacy where it’s all about you. We have partnered with different health professionals to make access to healthcare for the whole family (including our furry friends) so much easier. Preventative health is our goal. We are small but definitely big enough to serve you. We strive to put our patients in control of their health. We are located in Benton Illinois and proudly serve the surrounding area. Our goal is to have a positive impact on our patients with whom we talk to everyday. As an independent pharmacy we’re working hard to get to know you by name and treat you like a neighbor, because that’s, in fact who you are! Stop in and see why so many patients in Benton prefer us over a large chain pharmacy.</p>
+            color:white;">FII Pharmacy is your community pharmacy where it’s all about you. We have partnered with different health professionals to make access to healthcare for the whole family (including our furry friends) so much easier. Preventative health is our goal. We are small but definitely big enough to serve you. We strive to put our patients in control of their health. We are located in Benton Illinois and proudly serve the surrounding area. Our goal is to have a positive impact on our patients with whom we talk to everyday. As an independent pharmacy we’re working hard to get to know you by name and treat you like a neighbor, because that’s, in fact who you are! Stop in and see why so many patients in Benton prefer us over a large chain pharmacy.</p>
           </div>
           <div class="lg:max-w-lg lg:w-full md:w-2/3 w-6/7">
             <img src="https://cdn3.iconfinder.com/data/icons/health-care-and-medical-3/64/1-24-512.png" class="object-cover object-center rounded" id="kitchen" alt="hero" >
@@ -99,7 +99,7 @@ else if(isset($_SESSION['loggedin']) || $_SESSION['loggedin'] ==true){
         <div class="container mx-auto flex px-5 py-20 md:flex-row flex-col items-center">
           <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
             <h1 id="hh" class="title-font sm:text-4xl text-3xl mb-8 font-medium ">Medication & Safety</h1>
-            <p class="mb-8 leading-relaxed">At Garrison Pharmacy, we procure all our medicines from only certified and registered pharmacies in Pakistan such as Kausar Medicos, Tayyab Medical, Time Medicos, etc. and authorized distributors of manufacturing companies. We sell high-quality drugs and practice hygiene measures to make sure all the prescriptions are safely placed in the best conditions.
+            <p class="mb-8 leading-relaxed">At FII Pharmacy, we procure all our medicines from only certified and registered pharmacies in Pakistan such as Kausar Medicos, Tayyab Medical, Time Medicos, etc. and authorized distributors of manufacturing companies. We sell high-quality drugs and practice hygiene measures to make sure all the prescriptions are safely placed in the best conditions.
 
               Being one of the leading online pharmacies in Pakistan, we never compromise drug quality for the sake of discounted price. All our products are monitored before dispensing via a team of experts in the field. If a product is damaged during the transit, we ensure a new package is immediately dispatched. We provide medications for a host of illness and serious diseases at our e-pharmacy. We provide medicines for blood pressure, cancer, diabetes, migraine, etc. If you love herbal and organic products, we have a section dedicated for those products too.</p>
             <div class="flex w-full md:justify-start justify-center items-end">
@@ -137,7 +137,7 @@ else if(isset($_SESSION['loggedin']) || $_SESSION['loggedin'] ==true){
                   <p><br> "Great service and rapid,
                       <br>delivery of a rare medicine,
                       <br> I would highly recommend
-                      <br>Garrisonpharmacy.com.pk "<br><br><br>
+                      <br>FIIpharmacy.com.pk "<br><br><br>
                                                      
                       <cite class="customer-name">
                              <b>Bilal</b>
@@ -249,7 +249,7 @@ else if(isset($_SESSION['loggedin']) || $_SESSION['loggedin'] ==true){
               <img src="logo.png" style="height: 120px; width:120px;border-radius: 50%;border: solid 2px white;" >
                
             </img>
-              <h2 class="ml-4 text-xl leading-relaxed text-3xl font-medium tracking-widest">Garrison Pharmacy</h2>
+              <h2 class="ml-4 text-xl leading-relaxed text-3xl font-medium tracking-widest">FII Pharmacy</h2>
             </a>
            
           </div>
@@ -262,7 +262,7 @@ else if(isset($_SESSION['loggedin']) || $_SESSION['loggedin'] ==true){
                   <p2 class=" leading-relaxed">Products that are listed on</p2>
                 </li>
                 <li>
-                  <p2 class=" leading-relaxed">GarrisonPharmacy.com are</p2>
+                  <p2 class=" leading-relaxed">FIIPharmacy.com are</p2>
                 </li>
                 <li>
                   <p2 class="leading-relaxed ">100% genuine & sourced</p2>
@@ -311,10 +311,10 @@ else if(isset($_SESSION['loggedin']) || $_SESSION['loggedin'] ==true){
               <h2 class="title-font font-medium leading-relaxed  mb-3"><b>Find Us Online</b></h2>
               <nav class="list-none mb-10">
                 <li>
-                  <p2 class="leading-relaxed ">Facebook : GarrisonPharmacy</p2>
+                  <p2 class="leading-relaxed ">Facebook : FIIPharmacy</p2>
                 </li>
                 <li>
-                  <p2 class=" leading-relaxed"> Instagram : GarrisonPharmacy</p2>
+                  <p2 class=" leading-relaxed"> Instagram : FIIPharmacy</p2>
                 </li>
                 <li>
                   <p2 class="leading-relaxed ">Whatsapp : 03008200000</p2>
@@ -328,7 +328,7 @@ else if(isset($_SESSION['loggedin']) || $_SESSION['loggedin'] ==true){
         </div>
         <div id="q">
           <div class="container mx-auto py-6 px-5 flex flex-wrap flex-col sm:flex-row">
-            <p class="text-sm text-gray-500 sm:ml-6 sm:mt-0 mt-4">© 2022 Garrison Pharmacy —
+            <p class="text-sm text-gray-500 sm:ml-6 sm:mt-0 mt-4">© 2022 FII Pharmacy —
               <a rel="noopener noreferrer" class=" ml-1" target="_blank">@Fahad Farrukh Ibad Absar Arsal Naveed</a>
             </p>
             <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">

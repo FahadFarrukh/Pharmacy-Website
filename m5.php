@@ -129,7 +129,7 @@ background: #230ebf;
         <a href="index.php"><img  src="logo.png" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="text-white  " style=" border: 3px solid white ;border-radius: 50%;" height="146px" width="146px;" viewBox="0 0 24 24"></a>
           
         </svg>
-        <span style="font-family: 'Brush Script MT';color:white;font-size: 64px;" class="ml-2 text-xl  ">Garrison Pharmacy</span>
+        <span style="font-family: 'Brush Script MT';color:white;font-size: 64px;" class="ml-2 text-xl  ">FII Pharmacy</span>
       </a>
       <nav id="navv" style="color: white;font-size: 18px;" class=" md:ml-40 flex flex-wrap items-center text-base justify-center md:pl-3 md:border-l md:border-gray-100">
         <a href="index.php" class="mr-5 ">Home</a>
@@ -168,7 +168,7 @@ else if(isset($_SESSION['loggedin']) || $_SESSION['loggedin'] ==true){
       <div class="lg:w-4/3 mx-auto flex flex-wrap">
         <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded mt-20" src="xanax.png" style="height:400px; width:600px;">
         <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
-          <h2 class=" title-font  tracking-widest">Garrison Pharmacy</h2>
+          <h2 class=" title-font  tracking-widest">FII Pharmacy</h2>
           <h1 class=" text-3xl title-font font-medium mb-1">Xanax</h1>
           <div class="flex mb-4">
            
@@ -249,7 +249,7 @@ Xanax is also used to treat panic disorders with or without a fear of places and
               <img src="logo.png" style="height: 120px; width:120px;border-radius: 50%;border: solid 2px white;" >
                
             </img>
-              <h2 class="ml-4 text-xl leading-relaxed text-3xl font-medium tracking-widest">Garrison Pharmacy</h2>
+              <h2 class="ml-4 text-xl leading-relaxed text-3xl font-medium tracking-widest">FII Pharmacy</h2>
             </a>
            
           </div>
@@ -262,7 +262,7 @@ Xanax is also used to treat panic disorders with or without a fear of places and
                   <p2 class=" leading-relaxed">Products that are listed on</p2>
                 </li>
                 <li>
-                  <p2 class=" leading-relaxed">GarrisonPharmacy.com are</p2>
+                  <p2 class=" leading-relaxed">FIIPharmacy.com are</p2>
                 </li>
                 <li>
                   <p2 class="leading-relaxed ">100% genuine & sourced</p2>
@@ -311,10 +311,10 @@ Xanax is also used to treat panic disorders with or without a fear of places and
               <h2 class="title-font font-medium leading-relaxed  mb-3"><b>Find Us Online</b></h2>
               <nav class="list-none mb-10">
                 <li>
-                  <p2 class="leading-relaxed ">Facebook : GarrisonPharmacy</p2>
+                  <p2 class="leading-relaxed ">Facebook : FIIPharmacy</p2>
                 </li>
                 <li>
-                  <p2 class=" leading-relaxed"> Instagram : GarrisonPharmacy</p2>
+                  <p2 class=" leading-relaxed"> Instagram : FIIPharmacy</p2>
                 </li>
                 <li>
                   <p2 class="leading-relaxed ">Whatsapp : 03008200000</p2>
@@ -328,7 +328,7 @@ Xanax is also used to treat panic disorders with or without a fear of places and
         </div>
         <div id="q">
           <div class="container mx-auto py-6 px-5 flex flex-wrap flex-col sm:flex-row">
-            <p class="text-sm text-gray-500 sm:ml-6 sm:mt-0 mt-4">© 2022 Garrison Pharmacy —
+            <p class="text-sm text-gray-500 sm:ml-6 sm:mt-0 mt-4">© 2022 FII Pharmacy —
               <a rel="noopener noreferrer" class=" ml-1" target="_blank">@Fahad Farrukh Ibad Absar Arsal Naveed</a>
             </p>
             <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
